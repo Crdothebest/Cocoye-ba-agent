@@ -1,3 +1,8 @@
+# Node.js
+node_modules/
+coco-frontend/node_modules/
+coco-frontend/build/
+
 # Python
 __pycache__/
 *.py[cod]
